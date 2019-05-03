@@ -1,0 +1,60 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Introduction and Overview}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Biological concepts}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Motivation behind the project}{1}{section.1.3}
+\contentsline {section}{\numberline {1.4}Existing system}{2}{section.1.4}
+\contentsline {section}{\numberline {1.5}Proposed system}{2}{section.1.5}
+\contentsline {section}{\numberline {1.6}Organization of report}{2}{section.1.6}
+\contentsline {section}{\numberline {1.7}Conclusion}{2}{section.1.7}
+\contentsline {chapter}{\numberline {2}Literature survey}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Literature survey}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}Cellular Automata}{3}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Biological roots}{3}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Biological terminologies}{4}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Technologies used}{4}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}GNU Octave}{4}{subsection.2.4.1}
+\contentsline {section}{\numberline {2.5}Conclusion}{4}{section.2.5}
+\contentsline {chapter}{\numberline {3}System Requirements}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{5}{section.3.1}
+\contentsline {section}{\numberline {3.2}Software requirements}{5}{section.3.2}
+\contentsline {section}{\numberline {3.3}Hardware requirements}{5}{section.3.3}
+\contentsline {section}{\numberline {3.4}Functional requirements}{6}{section.3.4}
+\contentsline {section}{\numberline {3.5}Non-functional requirements}{6}{section.3.5}
+\contentsline {section}{\numberline {3.6}Conclusion}{6}{section.3.6}
+\contentsline {chapter}{\numberline {4}System Analysis and Design}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}Objectives of the system}{7}{section.4.2}
+\contentsline {section}{\numberline {4.3}System design}{7}{section.4.3}
+\contentsline {section}{\numberline {4.4}Modules design}{7}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Get configuration}{7}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Initialization of Cellular Automata}{8}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}Conclusion}{8}{section.4.5}
+\contentsline {chapter}{\numberline {5}System Implementation}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{9}{section.5.1}
+\contentsline {section}{\numberline {5.2}Biological properties and its implementation}{9}{section.5.2}
+\contentsline {section}{\numberline {5.3}Pre settings for Cellular Automata}{9}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Properties of biological cell}{9}{subsection.5.3.1}
+\contentsline {section}{\numberline {5.4}Cell division}{10}{section.5.4}
+\contentsline {section}{\numberline {5.5}Simulation}{10}{section.5.5}
+\contentsline {section}{\numberline {5.6}The main results}{13}{section.5.6}
+\contentsline {section}{\numberline {5.7}Conclusion}{13}{section.5.7}
+\contentsline {chapter}{\numberline {6}System Testing}{14}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introduction}{14}{section.6.1}
+\contentsline {section}{\numberline {6.2}Unit testing}{14}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Read configuration}{14}{subsection.6.2.1}
+\contentsline {section}{\numberline {6.3}Integration testing}{14}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Test cases}{14}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Results and snapshots}{15}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Asymmetric division}{15}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Symmetric division}{16}{subsection.6.3.4}
+\contentsline {subsection}{\numberline {6.3.5}With confinement}{16}{subsection.6.3.5}
+\contentsline {subsection}{\numberline {6.3.6}With motility}{16}{subsection.6.3.6}
+\contentsline {subsection}{\numberline {6.3.7}With proteolysis}{16}{subsection.6.3.7}
+\contentsline {section}{\numberline {6.4}Conclusion}{17}{section.6.4}
+\contentsline {chapter}{Results}{18}{chapter*.13}
+\contentsline {chapter}{Conclusion and Future work}{19}{chapter*.14}
+\contentsline {chapter}{Outcome of the thesis}{20}{chapter*.15}
+\contentsline {chapter}{Bibliography}{21}{chapter*.16}
+\contentsfinish 
